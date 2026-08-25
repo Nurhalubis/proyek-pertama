@@ -1,2 +1,8 @@
 # proyek-pertama
 Repository untuk pembelajaran
+Bash
+# Simpan perubahan sementara
+git stash
+
+# Kembalikan perubahan yang tadi disimpan
+git stash pop
